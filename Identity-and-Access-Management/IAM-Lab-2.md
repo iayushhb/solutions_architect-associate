@@ -35,7 +35,7 @@ And now that gives that user all the permissions associated with that user group
 
 > When a request is made, the AWS service decides whether a given request should be allowed or denied. The default option is that all requests are denied which is called "implicit deny". This option can be overridden by an allow which is called "explicit allow". On the other hand if a policy explicitly denies a request that is called "explicit deny" and that deny can't be overridden.
 
-#### Logging in as users created by us :
+#### Logging in as users created by you :
 
 ![Alt text](dashboard-iam.png)
 
