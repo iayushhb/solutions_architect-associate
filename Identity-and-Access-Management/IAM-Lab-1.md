@@ -4,7 +4,7 @@
 
 ![Alt text](iam-user-create.png)
 
-Now choose any name you'd like to user for user and hit next.
+Now choose any name you'd like to use for user and hit next.
 
 ![Alt text](iam-user-create2.png)
 
