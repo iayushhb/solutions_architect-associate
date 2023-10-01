@@ -15,7 +15,7 @@ You can enable versioning in S3 so you can have multiple versions of an object w
 5. Now to see your object versions , hit show versions and done.
 
 >You'll get something like this.
-![Alt text](s3-versioning.png)
+![Alt text](/Photos/s3-versioning.png)
 
 >When you upload a new version of an object the previous version gets private and only new version becomes public. 
 

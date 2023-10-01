@@ -1,6 +1,6 @@
 # Amazon S3 Storage Classes
 Amazon S3 offers a range of storage classes that you can choose from based on the data access, resiliency, and cost requirements of your workloads. S3 storage classes are purpose-built to provide the lowest cost storage for different access patterns. S3 storage classes are ideal for virtually any use case, including those with demanding performance needs, data residency requirements, unknown or changing access patterns, or archival storage. ***Not really important u can skip this..**
-![Alt text](<Performance across the S3 Storage Classes.png>)
+![Alt text](/Photos/Performance%20across%20the%20S3%20Storage%20Classes.png)
 ## General purpose - 
 ### S3 Standard
 1. *High Availability and Durability*
@@ -34,7 +34,7 @@ Amazon S3 Intelligent-Tiering is the first cloud storage that automatically redu
 - Monthly fee of $0.0025 per 1,000 objects
 
 `99.99% Availability & 99.999999999% (11 9's) Durability`
-![Alt text](<Highest cost.png>)
+![Alt text](/Photos/Highest%20cost.png)
 ## Archive - 
 The Amazon S3 Glacier storage classes are purpose-built for data archiving, and are designed to provide you with the highest performance, the most retrieval flexibility, and the lowest cost archive storage in the cloud.
 - You pay each time you access your data.
@@ -47,4 +47,4 @@ Amazon S3 Glacier Instant Retrieval is an archive storage class that delivers th
 S3 Glacier Flexible Retrieval delivers low-cost storage, up to 10% lower cost (than S3 Glacier Instant Retrieval), for archive data that is accessed 1—2 times per year and is retrieved asynchronously. For archive data that does not require immediate access but needs the flexibility to retrieve large sets of data at no cost, such as backup or disaster recovery use cases.
 ### Amazon S3 Glacier Deep Archive
 S3 Glacier Deep Archive is Amazon S3’s lowest-cost storage class and supports long-term retention and digital preservation for data that may be accessed once or twice in a year. It is designed for customers—particularly those in highly-regulated industries, such as financial services, healthcare, and public sectors—that retain data sets for 7—10 years or longer to meet regulatory compliance requirements. S3 Glacier Deep Archive can also be used for backup and disaster recovery use cases, and is a cost-effective and easy-to-manage alternative to magnetic tape systems.
-![Alt text](<Highest cost-1.png>)
+![Alt text](/Photos/Highest%20cost-1.png)

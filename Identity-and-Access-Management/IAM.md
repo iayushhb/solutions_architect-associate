@@ -1,5 +1,5 @@
 # What is IAM ?
-![alt text](aws-iam.png)
+![alt text](/Photos/aws-iam.png)
 
 
 ### IAM allows you to manage users and their level of access to the AWS console.
@@ -21,7 +21,7 @@ The root account is the email address you used to sign up for AWS. The root acco
 We assign permissions using policy documents , which are made of JSON(**JavaScript Object Notation**).
 
 *Example of a Policy Document:*
-![Alt text](Json-eg.png)
+![Alt text](/Photos/Json-eg.png)
 
 **`IAM` is Universal*
 
@@ -41,7 +41,7 @@ We assign permissions using policy documents , which are made of JSON(**JavaScri
 
 > It's best practice for users to *inherit permissions* from groups. And that’s because if you didn’t then it would harder to manage people individually.
 
-![Alt text](policy-eg-iam.png)
+![Alt text](/Photos/policy-eg-iam.png)
 
 > Always work on the principle that one user equals one physical person. Never share user accounts across multiple people.
 

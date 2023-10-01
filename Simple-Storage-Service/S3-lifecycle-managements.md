@@ -1,7 +1,7 @@
 # S3 Lifecycle Management
 You can add rules in an S3 Lifecycle configuration to tell Amazon S3 to transition objects to another Amazon S3 storage class.
 *Thereby maximizing cost effectiveness.*
-![Alt text](s3-lifecycle.png)
+![Alt text](/Photos/s3-lifecycle.png)
 ## Supported lifecycle transitions - 
 Amazon S3 supports the following lifecycle transitions between storage classes using an S3 Lifecycle configuration :
 
@@ -36,5 +36,5 @@ Amazon S3 does not support any of the following lifecycle transitions :
 1. Create a bucket or you can use previously created bucket.
 2. Go to your S3 bucket and turn on versioning by going into Amazon S3 > Buckets > "your bucket" > properties.
 3. Now head over to Amazon S3 > Buckets > "your bucket" > Management. Click "Create Lifecycle Rule", and select what rules you'd life to apply and hit create rule.
-![Alt text](lifecycle-rule.png)
+![Alt text](/Photos/lifecycle-rule.png)
 Done. ^_^

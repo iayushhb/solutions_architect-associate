@@ -3,9 +3,9 @@
 2. Upload files such as html and css files.
 3. Make bucket public using ACL.
 4. Now to host this static website, go buckets > your bucket > properties , then scroll down to static website hosting. Now hit edit and enable static website hosting and fill index file name and error file name.
-![Alt text](static-host.png)
+![Alt text](/Photos/static-host.png)
 5. Now if you scroll down again then you'll see the URL of the hosted site.
-![Alt text](static-host-2.png)
+![Alt text](/Photos/static-host-2.png)
 
 ## Another way of making your bucket public is by using bucket policy.
 1. Go to buckets > your bucket > permissions then paste this.

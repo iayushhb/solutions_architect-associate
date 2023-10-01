@@ -2,13 +2,13 @@
 
 > Log into your AWS console and search for IAM and you'll get a page like this..
 
-![Alt text](IAM-dashboard.png)
+![Alt text](/Photos/IAM-dashboard.png)
 
 To see your created users head over to the users section on left menu.
 
 Now take a look at user (user-1 in my case).
 
-![Alt text](user-summary.png)
+![Alt text](/Photos/user-summary.png)
 
 This page includes it's summary with ARN(Amazon Resourse Name) and the time it was created.
 
@@ -25,7 +25,7 @@ Now it will show you what users are attached to that group and you can also see 
 
 ### Adding users to user groups -
 
-![Alt text](user-grp-page.png)
+![Alt text](/Photos/user-grp-page.png)
 
 To add a user to a groups click add user button and select which user you want to add.
 
@@ -37,6 +37,6 @@ And now that gives that user all the permissions associated with that user group
 
 #### Logging in as users created by you :
 
-![Alt text](dashboard-iam.png)
+![Alt text](/Photos/dashboard-iam.png)
 
 To login go to the dashboard of your main account and copy the url and paste it in a browser and sign in with the creadentials you got when you created the users.

@@ -16,7 +16,7 @@ All objects are automatically encrypted by using server-side encryption with Ama
 Applies to all objects in your S3 bucket.
 
 Every time a file is uploaded to S3, a PUT request is initiated.
-![Alt text](put-request.png)
+![Alt text](/Photos/put-request.png)
 
 ## Enforcing Server-Side Encryption using bucket policy
 1. **x-amz-server-side-encryption** 
@@ -33,5 +33,5 @@ Every time a file is uploaded to S3, a PUT request is initiated.
 
     When this parameter is included in the header of the PUT request, it tell S3 to encrypt the object at the time of upload, using the specified encryption method.
 
-![Alt text](put-req.png)
+![Alt text](/Photos/put-req.png)
 > If you want to change the encryption type of any object then just go to the object in the bucket and scroll down and you'll see `Server-side encryption settings`.

@@ -1,20 +1,20 @@
 # Securing your bucket with S3 block access policies
 ### Access Control List **VS** Bucket Policy
-![Alt text](acl-vs-bp.png)
+![Alt text](/Photos/acl-vs-bp.png)
 
 # Creating a S3 bucket - 
 Head over to S3 and hit *create bucket*. And you'll get on this page.
-![Alt text](s3-bucket-create.png)
+![Alt text](/Photos/s3-bucket-create.png)
 Now type a globally unique name for the bucket and select the region you want your data to be deployed.
-![Alt text](s3-list-buckets.png)
+![Alt text](/Photos/s3-list-buckets.png)
 ### Uploading files to the created S3 bucket : 
 Now click on your bucket name and hit upload.
-![Alt text](s3-file-upload.png)
-![Alt text](s3-upload-page.png)
+![Alt text](/Photos/s3-file-upload.png)
+![Alt text](/Photos/s3-upload-page.png)
 Here you can either upload a full folder or a specific file.
 
 After successfully uploading your file to S3 Now click on your object and click on **Object URL**.
-![Alt text](s3-access-denied.png)
+![Alt text](/Photos/s3-access-denied.png)
 Now you still can't access your uploaded file and that because currently it's denied for public access.
 
 ### Now to make your object publicly accessible (on individual object level) :
