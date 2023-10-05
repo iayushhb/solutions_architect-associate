@@ -1,4 +1,4 @@
-### Theory and Hands-on Labs tutorials for _AWS Certified Solutions Architect Associate_
+### Theory and Hands-on Labs tutorials for *AWS Certified Solutions Architect Associate*
 
 -   `IAM`
 
