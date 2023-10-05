@@ -23,3 +23,4 @@
 -   `EC2`
     - [What is EC2 ?](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/EC2.md)
     - [EC2 Demo](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/Launch-Ec2.md)
+    - [AWS CLI](https://github.com/iayushhb/solutions_architect-associate/blob/main/Elastic-Compute-Cloud/AWS-CommandLine.md)
