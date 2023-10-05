@@ -20,6 +20,6 @@
     - [Set Up Cross-Region S3 Bucket Replication(Lab)](https://github.com/iayushhb/solutions_architect-associate/blob/main/Simple-Storage-Service/Cross-Region-Replication-Demo.md)
     -   [Create a Static Website Using Amazon S3(Lab)](https://github.com/iayushhb/solutions_architect-associate/blob/main/Simple-Storage-Service/Static-Website-S3.md)
     - [Creating Amazon S3 Buckets, Managing Objects, and Enabling Versioning(Lab)](https://github.com/iayushhb/solutions_architect-associate/blob/main/Simple-Storage-Service/Bucket-creation%2CManaging-Objects%2CEnabling-Versioning.md)
--   `Elastic-Compute-Cloud`
+-   `EC2`
     - [What is EC2 ?](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/EC2.md)
     - [EC2 Demo](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/Launch-Ec2.md)
