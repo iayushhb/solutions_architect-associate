@@ -24,3 +24,5 @@
     - [What is EC2 ?](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/EC2.md)
     - [EC2 Demo](https://github.com/iayushhb/solutions_architect-associate/blob/main/EC2/Launch-Ec2.md)
     - [AWS CLI](https://github.com/iayushhb/solutions_architect-associate/blob/main/Elastic-Compute-Cloud/AWS-CommandLine.md)
+    - [AWS Roles](https://github.com/iayushhb/solutions_architect-associate/blob/main/Elastic-Compute-Cloud/roles-AWS.md)
+    - [AWS Security-Groups](https://github.com/iayushhb/solutions_architect-associate/blob/main/Elastic-Compute-Cloud/Security-grp.md)
